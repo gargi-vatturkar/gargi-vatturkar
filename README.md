@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gargi-vatturkar
 - 👀 I’m interested in Web Development and FullStack Development
-- 🌱 I’m currently learning JavaScript and ReactJs
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me vgargiu@gmail.com
 
 <!---
